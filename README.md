@@ -1,4 +1,4 @@
-# HaiHotelApplication
+# Requirements for Installing IntelliJ and Other Softwares
 Download IntelliJ IDEA Community Edition
 https://www.jetbrains.com/idea/download/?section=windows
 
