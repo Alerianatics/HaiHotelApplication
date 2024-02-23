@@ -1,6 +1,7 @@
 # Requirements for Installing Apache Netbeans and Other Softwares
 Download Java JDBC
 https://dev.mysql.com/downloads/connector/j/
+
 Place Java JDBC at lib folder of project
 
 Download Netbeans IDE 21
