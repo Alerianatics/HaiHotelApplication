@@ -15,3 +15,5 @@ Apache-NetBeans-21-bin-windows-x64.exe (SHA-512, PGP ASC)
 Download XAMPP 8.2.12
 https://www.apachefriends.org/download.html
 
+Accessing XAMPP PhpMyAdmin for Other Computers LAN Network
+https://www.youtube.com/watch?v=vf_BBBTfxm0
