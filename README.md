@@ -1,21 +1,11 @@
-# Requirements for Installing IntelliJ and Other Softwares
-Download IntelliJ IDEA Community Edition
-https://www.jetbrains.com/idea/download/?section=windows
+# Requirements for Installing Apache Netbeans and Other Softwares
+Download Java JDBC
+https://dev.mysql.com/downloads/connector/j/
+Place Java JDBC at lib folder of project
 
-Download The Following Plugins in IntelliJ IDEA Community Edition:
-Database Naviagor
-JFormDesigner
-Codeium
-Rainbow Brackets
+Download Netbeans IDE 21
+https://netbeans.apache.org/front/main/download/index.html
 
-How to install MySQL 8.0.22 Server and Workbench
-https://www.youtube.com/watch?v=OM4aZJW_Ojs&t=321s
+Download XAMPP 8.2.12
+https://www.apachefriends.org/download.html
 
-Java JDBC - Connect to MySQL Database in IntelliJ with Java
-https://www.youtube.com/watch?v=e8g9eNnFpHQ
-
-Database Navigator Plugin Using IntelliJ IDEA (Community Edition)
-https://www.youtube.com/watch?v=V2bGKzvMQyc
-
-How To Use GUI Designer In IntelliJ IDEA IDE
-https://www.youtube.com/watch?v=whF_Qm1epQ8
