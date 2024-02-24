@@ -15,8 +15,9 @@ Download Netbeans IDE 21
 Download XAMPP 8.2.12
 - https://www.apachefriends.org/download.html
 
-Accessing XAMPP PhpMyAdmin for Other Computers LAN Network
-- https://www.youtube.com/watch?v=vf_BBBTfxm0
+For Database User
+- Ask for Permission Access
+- Connect to the Database: (ex.xxx.xxx.x.xxx:8080)
 
-Connect Java MySQL Database Driver with XAMPP
-- https://stackoverflow.com/questions/43195912/how-to-use-xampp-mysql-database-with-my-java-application
+Check Connection
+- ![image](https://github.com/Alerianatics/HaiHotelApplication/assets/120313055/3af77032-f126-4cf9-b0e0-28fa4dd0603e)
