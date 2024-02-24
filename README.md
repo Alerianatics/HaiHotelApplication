@@ -18,6 +18,5 @@ Download XAMPP 8.2.12
 For Database User
 - Ask for Permission Access
 - Connect to the Database: (ex.xxx.xxx.x.xxx:8080)
-
 - Check Connection
  ![image](https://github.com/Alerianatics/HaiHotelApplication/assets/120313055/3af77032-f126-4cf9-b0e0-28fa4dd0603e)
